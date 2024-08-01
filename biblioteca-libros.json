@@ -1,0 +1,42 @@
+[
+    {
+       "titulo":"Cien años de soledad",
+       "autor":"Gabriel García Márquez",
+       "año":1967,
+       "genero":"Realismo mágico",
+       "copias":5,
+       "prestados":2
+    },
+    {
+       "titulo":"1984",
+       "autor":"George Orwell",
+       "año":1949,
+       "genero":"Ciencia ficción",
+       "copias":3,
+       "prestados":1
+    },
+    {
+       "titulo":"El principito",
+       "autor":"Antoine de Saint-Exupéry",
+       "año":1943,
+       "genero":"Literatura infantil",
+       "copias":4,
+       "prestados":0
+    },
+    {
+       "titulo":"Don Quijote de la Mancha",
+       "autor":"Miguel de Cervantes",
+       "año":1605,
+       "genero":"Novela",
+       "copias":2,
+       "prestados":1
+    },
+    {
+       "titulo":"Rayuela",
+       "autor":"Julio Cortázar",
+       "año":1963,
+       "genero":"Novela",
+       "copias":3,
+       "prestados":2
+    }
+ ]
